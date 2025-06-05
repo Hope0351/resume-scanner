@@ -1,3 +1,6 @@
+Here's a refined version of your README with improved structure, formatting, and clarity while maintaining all the original content:
+
+```markdown
 # 🌴 AI Resume Analyzer 🌴  
 *A Tool for Resume Analysis, Predictions, and Recommendations*  
 
@@ -145,7 +148,7 @@
 
 ### Setup Steps
 
-
+```bash
 # Clone repository
 git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
 cd AI-Resume-Analyzer
@@ -169,3 +172,65 @@ venvapp\Lib\site-packages\pyresparser\
 
 # Launch application
 streamlit run App.py
+```
+
+> 📌 **Admin Credentials:**  
+> Username: `admin`  
+> Password: `admin@resume-analyzer`
+
+<br/>
+
+## 🐛 Known Issues
+- `GeocoderUnavailable` error: Check internet connection
+- Installation help: [Watch setup video](https://youtu.be/WFruijLC1Nc)
+
+<br/>
+
+## 🗺️ Roadmap
+- [x] Experience level prediction
+- [x] Resume scoring system
+- [x] Role-specific recommendations
+- [ ] Expand role categories
+- [ ] Individual user analytics
+
+<br/>
+
+## 🤝 Contributing
+1. Fork the repository
+2. Create your feature branch
+3. Submit a pull request
+
+**Project Documents:**
+- [Synopsis](RESUME%20ANALYSER%20SYNOPSIS.pdf)
+- [Request Full Report](mailto:dnoobnerd@gmail.com?subject=Request%20for%20AI-RESUME-ANALYZER%20Project%20Report)
+
+<br/>
+
+## 🙏 Acknowledgements
+- Dr. Bright's [Data Science Bootcamp](https://www.udemy.com/course/the-full-stack-data-scientist-bootcamp/)
+- [Resume Parser with NLP](https://www.academia.edu/32543544/Resume_Parser_with_Natural_Language_Processing)
+- [pyresparser](https://github.com/OmkarPathak/pyresparser)
+
+<br/>
+
+## 🖼️ Preview Gallery
+
+### Client Interface
+| Feature | Screenshot |
+|---------|------------|
+| Main Screen | ![Main](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true) |
+| Analysis | ![Analysis](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true) |
+| Recommendations | ![Recs](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true) |
+
+### Admin Portal
+| Feature | Screenshot |
+|---------|------------|
+| Dashboard | ![Dashboard](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/2-user-data.png?raw=true) |
+| Analytics | ![Analytics](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/5-pieexp.png?raw=true) |
+
+---
+
+<div align="center">
+  <small>✨ Built with passion by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> ✨</small>
+</div>
+ 
