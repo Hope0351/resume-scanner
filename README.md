@@ -1,7 +1,4 @@
-Here's a refined version of your README with improved structure, formatting, and clarity while maintaining all the original content:
-
-```markdown
-# 🌴 AI Resume Analyzer 🌴  
+ # 🌴 AI Resume Analyzer 🌴  
 *A Tool for Resume Analysis, Predictions, and Recommendations*  
 
 <p align="center">
@@ -148,7 +145,6 @@ Here's a refined version of your README with improved structure, formatting, and
 
 ### Setup Steps
 
-```bash
 # Clone repository
 git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
 cd AI-Resume-Analyzer
@@ -172,7 +168,7 @@ venvapp\Lib\site-packages\pyresparser\
 
 # Launch application
 streamlit run App.py
-```
+
 
 > 📌 **Admin Credentials:**  
 > Username: `admin`  
@@ -231,6 +227,6 @@ streamlit run App.py
 ---
 
 <div align="center">
-  <small>✨ Built with passion by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> ✨</small>
+  <small>✨ Built with passion by <a href=" https://github.com/Hope0351/">Hope</a> ✨</small>
 </div>
  
